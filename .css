@@ -1,0 +1,21 @@
+
+/* last rule */
+
+h1{
+    color: blue 
+
+}
+h1{
+    color: brown;
+}
+p{
+    color: red;
+    border: 1px solid pink;
+}
+p{
+    color: green;
+    border: 2px solid orangered;
+} 
+
+
+

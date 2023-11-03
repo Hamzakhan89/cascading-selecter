@@ -1,0 +1,12 @@
+/* specificity */
+*{
+    color: blue;
+}
+
+p{
+    color: orangered;
+}
+
+p#intro{
+    color: green;
+} 

@@ -1,0 +1,11 @@
+/* important */
+*{
+    color: blue !important;
+    border: 5px solid yellow !important;
+
+}
+
+p{
+    color: orangered;
+    border: 1px solid green;
+}
